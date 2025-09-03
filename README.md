@@ -1,4 +1,4 @@
-﻿# chat-mensageria
+﻿# chat-mensageria - [B7Web FullStack](https://lp.b7web.com.br/curso)
 
 ## Aprendizados
 
@@ -11,5 +11,4 @@
 7. dimensões - max-width, witdth, lenght, max-lenght
 8. configurar barra de rolagem
 9. lógica de um chat
-
 10. socketIO - emit(envia), on(recebe), broadcast.emit(envia a todos)
